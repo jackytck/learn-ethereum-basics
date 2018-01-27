@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jackytck/learn-ethereum-inbox/issues"
   },
-  "homepage": "https://github.com/jackytck/learn-ethereum-inbox#readme"
+  "homepage": "https://github.com/jackytck/learn-ethereum-inbox#readme",
+  "dependencies": {
+    "solc": "^0.4.19"
+  }
 }
