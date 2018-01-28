@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/jackytck/learn-ethereum-inbox#readme",
   "dependencies": {
-    "solc": "^0.4.19"
+    "solc": "^0.4.19",
+    "web3": "1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.0.3",
+    "mocha": "^5.0.0"
   }
 }
