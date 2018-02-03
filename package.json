@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/jackytck/learn-ethereum-inbox#readme",
   "dependencies": {
+    "dotenv": "^5.0.0",
     "solc": "^0.4.19",
+    "truffle-hdwallet-provider": "^0.0.3",
     "web3": "1.0.0-beta.26"
   },
   "devDependencies": {
